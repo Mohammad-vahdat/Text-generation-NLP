@@ -1,6 +1,6 @@
 # Text-generation-NLP
 
-I created networks that can generate text, here it is done character by character. I have implemented using both TensorFlow and PyTorch. 
+I created networks that can generate text, here it is done character by character. The text generator is implemented using both TensorFlow and PyTorch. 
 
 
 I chose all of shakespeare's works, mainly for two reasons:
